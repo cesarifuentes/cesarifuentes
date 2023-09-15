@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## My name is Cesar Fuentes and I'm a software developer.
+### Hi there 👋 My name is Cesar Fuentes and I'm a software developer.
 
 - 🔭 I’m currently working on a new iOS app.
 - 🌱 I’m currently learning AWS.
